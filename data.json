@@ -1,0 +1,2165 @@
+{
+  "items": [
+    {
+      "title": "Mugg",
+      "description": "Det var fan bättre förr!",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1037663508946498/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348894013-pxl-20260610-165127660-2.jpg",
+        "images/1781348894123-pxl-20260610-165132409-2.jpg"
+      ],
+      "id": "b0101cef-f665-4a7e-9081-301c68aa3594",
+      "createdAt": "2026-06-13T11:08:15.200Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Hur fan orkar folk?",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1011612635157754/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348862381-pxl-20260610-165040189-2.jpg",
+        "images/1781348862490-pxl-20260610-165049659-2.jpg"
+      ],
+      "id": "99d1d33a-c396-4b80-909f-9bdccb335ca2",
+      "createdAt": "2026-06-13T11:07:43.889Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Orka...",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/2091371138391874/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348799651-pxl-20260610-164940208-2.jpg",
+        "images/1781348799755-pxl-20260610-164945296-2.jpg",
+        "images/1781348799816-pxl-20260610-164948633-2.jpg"
+      ],
+      "id": "9fa98c78-6369-44af-b093-320cd3bda094",
+      "createdAt": "2026-06-13T11:06:41.964Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Ähh, nu tar vi helg!",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1503012707347308/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348741264-pxl-20260610-164917258-2.jpg",
+        "images/1781348741371-pxl-20260610-164922309-2.jpg",
+        "images/1781348750468-pxl-20260610-164929091-2.jpg"
+      ],
+      "id": "bf083fa7-5814-4346-aac3-a0ebdf95757d",
+      "createdAt": "2026-06-13T11:05:52.360Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Nej, om ska gå hem?",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1995239461088212/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348681435-pxl-20260610-164858314-2.jpg",
+        "images/1781348681534-pxl-20260610-164902966-2.jpg",
+        "images/1781348697958-pxl-20260610-164907263-2.jpg"
+      ],
+      "id": "f6f81826-5d6f-424b-b772-900cce361615",
+      "createdAt": "2026-06-13T11:04:59.783Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Fika?",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/855024161013865/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348626941-pxl-20260610-164804260-2.jpg",
+        "images/1781348627036-pxl-20260610-164812983-2.jpg"
+      ],
+      "id": "e6c75bcd-3acc-4d21-b1cf-fcb58fd81cbb",
+      "createdAt": "2026-06-13T11:03:48.296Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "De gaur inte!",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/830404826572824/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348575444-pxl-20260610-164739204-2.jpg",
+        "images/1781348575498-pxl-20260610-164745776-2.jpg",
+        "images/1781348585904-pxl-20260610-164751165-mp-2.jpg"
+      ],
+      "id": "c982736c-8010-4e45-a99f-359bfe05b193",
+      "createdAt": "2026-06-13T11:02:56.654Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Skit i det, nu kör vi!",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/4095977040624676/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348526539-pxl-20260610-164707836-2.jpg",
+        "images/1781348526656-pxl-20260610-164713607-2.jpg",
+        "images/1781348526702-pxl-20260610-164723120-2.jpg"
+      ],
+      "id": "3418fdfd-de5a-4dc5-9e75-6fc8ebeadb0b",
+      "createdAt": "2026-06-13T11:02:07.702Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Fika istället?",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1276406287737742/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348460977-pxl-20260610-164625050-2.jpg",
+        "images/1781348461007-pxl-20260610-164630003.jpg",
+        "images/1781348474813-pxl-20260610-164635316-2.jpg"
+      ],
+      "id": "ad9b490c-c909-44ae-b6cd-9b66de5a936c",
+      "createdAt": "2026-06-13T11:01:02.105Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Fan fan fan",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/995078783317153/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348423294-pxl-20260610-164557720-2.jpg",
+        "images/1781348423396-pxl-20260610-164614737-2.jpg"
+      ],
+      "id": "4797720f-c905-4bb7-8d7f-32fea9b0f875",
+      "createdAt": "2026-06-13T11:00:24.472Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Helvetes jävla skit",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/2913009972375633/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348363829-pxl-20260610-164507594-2.jpg",
+        "images/1781348363919-pxl-20260610-164515038-2.jpg",
+        "images/1781348371616-pxl-20260610-164523731-2.jpg",
+        "images/1781348371713-pxl-20260610-164529826-2.jpg"
+      ],
+      "id": "233a7c27-0ffe-465d-8072-ae1e268f1e2b",
+      "createdAt": "2026-06-13T10:59:40.037Z"
+    },
+    {
+      "title": "Kopp",
+      "description": "Handkavlad i jordiga toner",
+      "price": "150",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1731877007830202/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348292615-pxl-20260610-164431568-2.jpg",
+        "images/1781348292715-pxl-20260610-164435584-2.jpg",
+        "images/1781348292762-pxl-20260610-164440068-2.jpg"
+      ],
+      "id": "58cb8810-8fb7-4d98-8f24-36ae6f021a22",
+      "createdAt": "2026-06-13T10:58:39.863Z"
+    },
+    {
+      "title": "Kopp",
+      "description": "Tunn kopp i gröna och honungsvita toner",
+      "price": "150",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/27082574734738968/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348248299-pxl-20260610-164416454-2.jpg",
+        "images/1781348248392-pxl-20260610-164412416-2.jpg",
+        "images/1781348248435-pxl-20260610-164422977-2.jpg"
+      ],
+      "id": "f3ab9636-a49e-413b-ab67-c8987b27a24e",
+      "createdAt": "2026-06-13T10:57:55.170Z"
+    },
+    {
+      "title": "Tumblermugg",
+      "description": "Vit och blånyanserad krakeleringsglasyr",
+      "price": "175",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/946775878334546/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348225286-pxl-20260610-164338948-2.jpg",
+        "images/1781348225369-pxl-20260610-164403048-2.jpg",
+        "images/1781348225419-pxl-20260610-164348204-2.jpg"
+      ],
+      "id": "d403d80a-a071-4292-9322-2126e0c63f80",
+      "createdAt": "2026-06-13T10:57:07.222Z"
+    },
+    {
+      "title": "Tumblerugg",
+      "description": "I poppig röd glasyr och mattsvart bas",
+      "price": "175",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1290916829479030/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348137239-pxl-20260610-164302133-2.jpg",
+        "images/1781348137314-pxl-20260610-164305958-2.jpg",
+        "images/1781348137349-pxl-20260610-164309761-2.jpg"
+      ],
+      "id": "865fbf2c-fc19-4006-ab78-14d257abd34a",
+      "createdAt": "2026-06-13T10:56:09.541Z"
+    },
+    {
+      "title": "Tumblermugg",
+      "description": "Med glasyr i gröna och oliv toner",
+      "price": "175",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/27132014256425071/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348074130-pxl-20260610-164245009-2.jpg",
+        "images/1781348074208-pxl-20260610-164249500-2.jpg",
+        "images/1781348074242-pxl-20260610-164253975-2.jpg"
+      ],
+      "id": "919c510a-931c-4a53-aa7e-ee65f623759b",
+      "createdAt": "2026-06-13T10:55:15.512Z"
+    },
+    {
+      "title": "Tumblermugg",
+      "description": "I glittrig svart glasyr",
+      "price": "175",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/850000051499982/",
+      "status": "for_sale",
+      "images": [
+        "images/1781348027525-pxl-20260610-164224506-2.jpg",
+        "images/1781348032942-pxl-20260610-164207633-2.jpg"
+      ],
+      "id": "93dc6e91-a8ee-4370-9ad2-8de3db26c262",
+      "createdAt": "2026-06-13T10:54:21.704Z"
+    },
+    {
+      "title": "Mugg och Espressokopp",
+      "description": "I stenig glasyr",
+      "price": "200",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1032424666338054/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347878709-pxl-20260610-164056617-2.jpg",
+        "images/1781347878785-pxl-20260610-164102871-2.jpg",
+        "images/1781347878837-pxl-20260610-164116565-2.jpg"
+      ],
+      "id": "a920cb01-f5d8-4bb7-b773-1c600d39aa2b",
+      "createdAt": "2026-06-13T10:51:40.899Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Rödbrunt till skimrande mörkblå glasyr",
+      "price": "175",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1016535557590610/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347779839-pxl-20260610-164032026-2.jpg",
+        "images/1781347787792-pxl-20260610-164026031-2.jpg"
+      ],
+      "id": "c0ade201-f382-499d-afee-cf1a6f58fd3c",
+      "createdAt": "2026-06-13T10:51:05.420Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "I mörklila toner",
+      "price": "175",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1332153992206253/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347721303-pxl-20260610-163959017-2.jpg",
+        "images/1781347721381-pxl-20260610-164006231-2.jpg",
+        "images/1781347721428-pxl-20260610-164010961-2.jpg"
+      ],
+      "id": "9192aaae-1578-4a3c-9e23-70446769ccdb",
+      "createdAt": "2026-06-13T10:49:21.696Z"
+    },
+    {
+      "title": "2 st Muggar",
+      "description": "Sandig glasyr med blåa inslag",
+      "price": "350",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1319576216908302/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347643523-pxl-20260610-163918137-2.jpg",
+        "images/1781347643597-pxl-20260610-163925635-2.jpg",
+        "images/1781347643651-pxl-20260610-163931764-2.jpg"
+      ],
+      "id": "9cedd00a-6634-4558-8680-d868e321f12c",
+      "createdAt": "2026-06-13T10:48:11.561Z"
+    },
+    {
+      "title": "Koppar",
+      "description": "Med blått flammigt mönster",
+      "price": "400",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/978221021504748/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347585926-pxl-20260610-163820045-2.jpg",
+        "images/1781347586000-pxl-20260610-163827482-2.jpg",
+        "images/1781347586046-pxl-20260610-163833095-2.jpg",
+        "images/1781347586124-pxl-20260610-163844905-2.jpg"
+      ],
+      "id": "159cb1ca-0c68-4236-83d0-7339b436c5c3",
+      "createdAt": "2026-06-13T10:47:11.773Z"
+    },
+    {
+      "title": "Mugg",
+      "description": "Med genomgånde hål",
+      "price": "250",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1997740434446210/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347540514-pxl-20260610-163623354-2.jpg",
+        "images/1781347540587-pxl-20260610-163629596-2.jpg",
+        "images/1781347540628-pxl-20260610-163636495-2.jpg",
+        "images/1781347540674-pxl-20260610-163650037-2.jpg"
+      ],
+      "id": "c8fc632d-f4c8-45cd-a147-2353cff48318",
+      "createdAt": "2026-06-13T10:46:06.517Z"
+    },
+    {
+      "title": "Tillbringare",
+      "description": "i blå glasyr med turkosa toner",
+      "price": "250",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1735221080998472/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347493156-pxl-20260610-163537788-2.jpg",
+        "images/1781347493219-pxl-20260610-163549523-2.jpg",
+        "images/1781347493284-pxl-20260610-163600516-2.jpg"
+      ],
+      "id": "8a7893c4-2b3f-4948-b74e-4b6d0fe79dc9",
+      "createdAt": "2026-06-13T10:45:20.101Z"
+    },
+    {
+      "title": "Nudelskål",
+      "description": "Emeraldgrön glasyr",
+      "price": "150",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/983185567895786/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347453344-pxl-20260610-163458556-2.jpg",
+        "images/1781347453400-pxl-20260610-163506351-2.jpg",
+        "images/1781347453444-pxl-20260610-163515623-2.jpg"
+      ],
+      "id": "1403151a-bb7b-4fe6-a013-f122be623c91",
+      "createdAt": "2026-06-13T10:44:38.749Z"
+    },
+    {
+      "title": "Nudelskålar",
+      "description": "I grå-röd glasyr",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/27239374975701599/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347411955-pxl-20260610-163326171-2.jpg",
+        "images/1781347412023-pxl-20260610-163338241-2.jpg",
+        "images/1781347412088-pxl-20260610-163346167-2.jpg",
+        "images/1781347412136-pxl-20260610-163356836-2.jpg"
+      ],
+      "id": "665bf014-fe3a-4ce3-ba88-4417f4e58df4",
+      "createdAt": "2026-06-13T10:44:01.621Z"
+    },
+    {
+      "title": "Skålar",
+      "description": "I blåskimmrande och svart glasyr",
+      "price": "300",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1573386794205835/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347371465-pxl-20260610-163230165-2.jpg",
+        "images/1781347371542-pxl-20260610-163240674-2.jpg",
+        "images/1781347371596-pxl-20260610-163255075-2.jpg"
+      ],
+      "id": "4dc48666-47fc-424b-9e5f-1b495b524f53",
+      "createdAt": "2026-06-13T10:43:16.283Z"
+    },
+    {
+      "title": "Kruka/Vas",
+      "description": "I turkosa toner",
+      "price": "500",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/4071721879626772/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347308146-pxl-20260610-163049057-2.jpg",
+        "images/1781347308212-pxl-20260610-163057646-2.jpg",
+        "images/1781347308263-pxl-20260610-163122385-2.jpg",
+        "images/1781347308317-pxl-20260610-163141467-2.jpg"
+      ],
+      "id": "59348e6d-1009-4929-ba4f-f85b5ebdff69",
+      "createdAt": "2026-06-13T10:42:16.737Z"
+    },
+    {
+      "title": "Skål",
+      "description": "Råsa med järnig bas",
+      "price": "350",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1537935251030510/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347254551-pxl-20260610-162948723-2.jpg",
+        "images/1781347254613-pxl-20260610-163007036-2.jpg",
+        "images/1781347254663-pxl-20260610-163018414-2.jpg"
+      ],
+      "id": "c3f7067a-6e27-4ce3-bd7b-b9081150658e",
+      "createdAt": "2026-06-13T10:41:23.338Z"
+    },
+    {
+      "title": "Skål",
+      "description": "I djup blå ton och järnig bas",
+      "price": "350",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/3139249546285853/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347206073-pxl-20260610-162815268-2.jpg",
+        "images/1781347206132-pxl-20260610-162834344-2.jpg",
+        "images/1781347206175-pxl-20260610-162843893-2.jpg"
+      ],
+      "id": "81bfb4a3-6036-46a2-918e-097abf4a5098",
+      "createdAt": "2026-06-13T10:40:43.540Z"
+    },
+    {
+      "title": "Skål",
+      "description": "I turkosa toner och trä",
+      "price": "350",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/27245694795095935/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347144813-pxl-20260610-162522979-2.jpg",
+        "images/1781347144864-pxl-20260610-162553976-2.jpg",
+        "images/1781347144897-pxl-20260610-162606468-2.jpg"
+      ],
+      "id": "f1106bfe-53df-41bd-af7c-564876ef27af",
+      "createdAt": "2026-06-13T10:39:56.047Z"
+    },
+    {
+      "title": "Fat",
+      "description": "Glasyr i vit-blå toner",
+      "price": "500",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/1555573359243333/",
+      "status": "for_sale",
+      "images": [
+        "images/1781347080752-pxl-20260610-162405671-2.jpg",
+        "images/1781347080821-pxl-20260610-162414387-2.jpg",
+        "images/1781347080870-pxl-20260610-162428535-2.jpg"
+      ],
+      "id": "1481df76-d9c1-43ee-bf26-b919905b1eaf",
+      "createdAt": "2026-06-13T10:38:33.148Z"
+    },
+    {
+      "title": "Fat",
+      "description": "Fat i prickig honungsvit glasyr",
+      "price": "600",
+      "facebookUrl": "https://www.facebook.com/marketplace/item/797323226682088/",
+      "status": "for_sale",
+      "images": [
+        "images/1781346976733-pxl-20260610-162052798.jpg",
+        "images/1781346976807-pxl-20260610-162259003.jpg",
+        "images/1781346976919-pxl-20260610-162310641.jpg",
+        "images/1781346977013-pxl-20260610-162332067.jpg"
+      ],
+      "id": "69a2a779-2846-4197-9706-17ba9edf7135",
+      "createdAt": "2026-06-13T10:36:42.087Z"
+    },
+    {
+      "id": "fs-001",
+      "title": "Fat",
+      "description": "Fat svart glasyr med blått flammigt mönster. Ca 37x28cm",
+      "images": [
+        "images/PXL_20240917_144248721.jpg",
+        "images/PXL_20240917_144254560.jpg",
+        "images/PXL_20240917_144308476.jpg"
+      ],
+      "status": "sold",
+      "price": "700 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567432314196487/?sale_post_id=1567432314196487",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-002",
+      "title": "Fat",
+      "description": "Fat i prickig honungsvit glasyr. Ca 40x23cm.",
+      "images": [
+        "images/PXL_20240917_143900667.jpg",
+        "images/PXL_20240917_143851251.jpg"
+      ],
+      "status": "sold",
+      "price": "600 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567430727529979/?sale_post_id=1567430727529979",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-003",
+      "title": "Skål",
+      "description": "Flerfärgad skål med honungsvit bas.",
+      "images": [
+        "images/PXL_20240917_150717537.jpg",
+        "images/PXL_20240917_150724197.jpg"
+      ],
+      "status": "sold",
+      "price": "200 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567429374196781/?sale_post_id=1567429374196781",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-004",
+      "title": "Muggar",
+      "description": "Muggar i honungsvit glasyr med turkos sida. Pris per styck.",
+      "images": [
+        "images/PXL_20240917_145955643.jpg",
+        "images/PXL_20240917_145936451.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567428294196889/?sale_post_id=1567428294196889",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-005",
+      "title": "Kopp",
+      "description": "Kopp i svart glasyr med blått flammigt mönster.",
+      "images": [
+        "images/PXL_20240917_150307761.jpg",
+        "images/PXL_20240917_150312147.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567427114197007/?sale_post_id=1567427114197007",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-006",
+      "title": "Skål",
+      "description": "Skål i djup blå glasyr med jordiga brytningar.",
+      "images": [
+        "images/PXL_20240917_150543141.jpg",
+        "images/PXL_20240917_150546226.jpg"
+      ],
+      "status": "sold",
+      "price": "200 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567425937530458/?sale_post_id=1567425937530458",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-007",
+      "title": "Garnskål",
+      "description": "Garnskål med pricking honungsvit glasyr och emeraldgrön kant.\nCa 6cm djup och 13cm bred",
+      "images": [
+        "images/PXL_20240917_150908677.jpg",
+        "images/PXL_20240917_150915799.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567424950863890/?sale_post_id=1567424950863890",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-008",
+      "title": "Mugg",
+      "description": "Mugg i flammig blå/lila glasyr.",
+      "images": [
+        "images/PXL_20240917_150341349.jpg",
+        "images/PXL_20240917_150336825.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567423304197388/?sale_post_id=1567423304197388",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-009",
+      "title": "Skål",
+      "description": "Skål i lila glasyr",
+      "images": [
+        "images/PXL_20240917_150521882.jpg",
+        "images/PXL_20240917_150527200.jpg"
+      ],
+      "status": "sold",
+      "price": "200 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567421657530886/?sale_post_id=1567421657530886",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-010",
+      "title": "Skål",
+      "description": "Skål i emeraldgrön glasyr.",
+      "images": [
+        "images/PXL_20240917_150621939.jpg",
+        "images/PXL_20240917_150640542.jpg"
+      ],
+      "status": "sold",
+      "price": "200 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567420340864351/?sale_post_id=1567420340864351",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-011",
+      "title": "Tumblermugg",
+      "description": "Tumblermugg med glasyr som är svart med mörkblått skimmer.",
+      "images": [
+        "images/PXL_20240917_150201777.jpg",
+        "images/PXL_20240917_150210774.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567419287531123/?sale_post_id=1567419287531123",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-012",
+      "title": "Ljuslyckta",
+      "description": "I svart bas-glasyr och flertalet andra glasyrer pålagt för att ge ett mönster som påminner om en galax.\nCa 13cm hög.",
+      "images": [
+        "images/PXL_20240917_144650188.jpg",
+        "images/PXL_20240917_144659007.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567414637531588/?sale_post_id=1567414637531588",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-013",
+      "title": "Mugg-set",
+      "description": "Mugg-set i guld/mässing och svart glasyr.",
+      "images": [
+        "images/PXL_20240917_150056196.jpg",
+        "images/PXL_20240917_150101756.jpg"
+      ],
+      "status": "sold",
+      "price": "300 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567410517532000/?sale_post_id=1567410517532000",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-014",
+      "title": "Fat",
+      "description": "Fat i prickig honungsvit glasyr. Ca 40x23cm.",
+      "images": [
+        "images/PXL_20240917_143930289.jpg",
+        "images/PXL_20240917_143934965.jpg"
+      ],
+      "status": "sold",
+      "price": "500 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567408807532171/?sale_post_id=1567408807532171",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-015",
+      "title": "Skål",
+      "description": "Skål i flammande blå glasyr med inslag av gröna toner.",
+      "images": [
+        "images/PXL_20240917_150803125.jpg",
+        "images/PXL_20240917_150808399.jpg"
+      ],
+      "status": "sold",
+      "price": "200 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567407140865671/?sale_post_id=1567407140865671",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-016",
+      "title": "Vas",
+      "description": "Vas ca 18cm hög, 9 bred. I prickig honungsvit glasyr.",
+      "images": [
+        "images/PXL_20240917_144510360.jpg",
+        "images/PXL_20240917_144502126.jpg"
+      ],
+      "status": "sold",
+      "price": "300 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567405787532473/?sale_post_id=1567405787532473",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-017",
+      "title": "Skål",
+      "description": "Liten skål i djup turkos glasyr.",
+      "images": [
+        "images/PXL_20240917_150840100.jpg",
+        "images/PXL_20240917_150844058.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567404204199298/?sale_post_id=1567404204199298",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-018",
+      "title": "Garnskål",
+      "description": "Garnskål i vågande glasyr från ljusblå till blå.\n6cm djup och 15cm bred.",
+      "images": [
+        "images/PXL_20240917_151029095.jpg",
+        "images/PXL_20240917_151037540.jpg",
+        "images/PXL_20240917_151048790.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567402424199476/?sale_post_id=1567402424199476",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-019",
+      "title": "Temugg",
+      "description": "Temugg med olika glasyrlager, från midnattsblått till turkos.",
+      "images": [
+        "images/PXL_20240917_150242324.jpg",
+        "images/PXL_20240917_150247303.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567400224199696/?sale_post_id=1567400224199696",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-020",
+      "title": "Ljusfat",
+      "description": "Ljusfat i djup svart glasyr med variationer från blått till lila i.",
+      "images": [
+        "images/PXL_20240917_150444456.jpg",
+        "images/PXL_20240917_150451574.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567398880866497/?sale_post_id=1567398880866497",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-021",
+      "title": "Assietter",
+      "description": "6st assietter i honungsvit glasyr med turkos sida. Diameter 16,5cm. Pris per styck.",
+      "images": [
+        "images/PXL_20240917_145813011.jpg",
+        "images/PXL_20240917_145817657.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1567395640866821/?sale_post_id=1567395640866821",
+      "createdAt": "2024-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fs-022",
+      "title": "Kopp",
+      "description": "Kopp i djup svart glasyr med lila skimmer",
+      "images": [
+        "images/PXL_20231127_165305158~2.jpg",
+        "images/PXL_20231127_165310834~2.jpg",
+        "images/PXL_20231127_165325229~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388944258711961/?sale_post_id=1388944258711961",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "fs-023",
+      "title": "Vas",
+      "description": "Ca 20cm hög vas med olika glasyrlager, vågor från midnattsblått till turkos.",
+      "images": [
+        "images/PXL_20231127_164925662~2.jpg",
+        "images/PXL_20231127_164937261~2.jpg",
+        "images/PXL_20231127_165002437~2.jpg"
+      ],
+      "status": "sold",
+      "price": "500 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388945655378488/?sale_post_id=1388945655378488",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "fs-024",
+      "title": "Ljusstake",
+      "description": "Ljusstake med poppig lila glasyr, undertoner av orange.",
+      "images": [
+        "images/PXL_20231127_165411420~2.jpg",
+        "images/PXL_20231127_165418122~2.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388946078711779/?sale_post_id=1388946078711779",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "fs-025",
+      "title": "Lampett",
+      "description": "Lampett med mörk metallisk spegelblank glasyr. Ca 20cm hög",
+      "images": [
+        "images/PXL_20231201_160657806~2.jpg",
+        "images/PXL_20231127_164853719~2.jpg",
+        "images/PXL_20231127_164907877~2.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388947722044948/?sale_post_id=1388947722044948",
+      "createdAt": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "fs-026",
+      "title": "Skål",
+      "description": "Stor skål med glasyr i toner av rost och grönt.",
+      "images": [
+        "images/PXL_20230416_185036722~2.jpg",
+        "images/PXL_20230416_185044534~2.jpg",
+        "images/PXL_20230416_185051952~2.jpg",
+        "images/PXL_20230416_185100337~2.jpg"
+      ],
+      "status": "for_sale",
+      "price": "400 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278803343059387/?sale_post_id=1278803343059387",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "fs-027",
+      "title": "Skål",
+      "description": "Stor skål med honungsvit bas och ränder av blått och grönblått.",
+      "images": [
+        "images/PXL_20230416_184944018~2.jpg",
+        "images/PXL_20230416_185002091~2.jpg",
+        "images/PXL_20230416_185015042~2.jpg"
+      ],
+      "status": "for_sale",
+      "price": "400 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278802263059495/?sale_post_id=1278802263059495",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "fs-028",
+      "title": "Ljuslykta",
+      "description": "Ljuslykta med mattsvart glasyr",
+      "images": [
+        "images/PXL_20230416_184840293~2.jpg",
+        "images/PXL_20230416_184847150~2.jpg",
+        "images/PXL_20230416_184854249~2.jpg"
+      ],
+      "status": "sold",
+      "price": "125 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278800646392990/?sale_post_id=1278800646392990",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "fs-029",
+      "title": "Kopp",
+      "description": "Kopp med glasyrkombination som ger toner av rosa och lila",
+      "images": [
+        "images/PXL_20230513_081407234~2.jpg",
+        "images/PXL_20230513_081416909~3.jpg",
+        "images/PXL_20230513_081435118~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278799349726453/?sale_post_id=1278799349726453",
+      "createdAt": "2023-05-13T00:00:00.000Z"
+    },
+    {
+      "id": "fs-030",
+      "title": "Mugg",
+      "description": "Mugg med glittrig svart som övergår i brunt, med svart insida",
+      "images": [
+        "images/PXL_20221128_132726475.jpg",
+        "images/PXL_20221128_132740036.jpg",
+        "images/PXL_20221128_132750622.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175132400093149/?sale_post_id=1175132400093149",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "fs-031",
+      "title": "Tomteluva",
+      "description": "Handtummad tomteluva i traditionella färger.",
+      "images": [
+        "images/PXL_20221128_133901914~2.jpg",
+        "images/PXL_20221128_133909499~2.jpg"
+      ],
+      "status": "for_sale",
+      "price": "75 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175129543426768/?sale_post_id=1175129543426768",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "fs-032",
+      "title": "Vas",
+      "description": "En vas i metallisk glasyr som går mellan silver och guld, med en topp av skimrande blått mot svart. 15cm hög",
+      "images": [
+        "images/274007500_1600650900268571_2328752910574435200_n.jpg",
+        "images/274027656_1600650880268573_1133549150968984258_n.jpg"
+      ],
+      "status": "for_sale",
+      "price": "175 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/977925423147182/?sale_post_id=977925423147182",
+      "createdAt": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "fs-033",
+      "title": "Tumblermuggar",
+      "description": "2st tumblermuggar med karvat mönster. Glasyr i färgerna från brun/lila till ljusblått. Rymmer 3dl.",
+      "images": [
+        "images/268986439_1562513480748980_3866638890987762563_n.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/943327786606946/?sale_post_id=943327786606946",
+      "createdAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-001",
+      "title": "Kopp-set",
+      "description": "Kopp-set med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått och gräddvit glasyr inuti.",
+      "images": [
+        "images/PXL_20230416_183807463~2.jpg",
+        "images/PXL_20230416_183813360~2.jpg",
+        "images/PXL_20230416_183829269~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278792339727154/?sale_post_id=1278792339727154",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-002",
+      "title": "Tumblermugg",
+      "description": "Tumblermugg med 3 olika glasyer som skapar en härligt galen kombo från vete till lila och blått.",
+      "images": [
+        "images/PXL_20221128_132518008.jpg",
+        "images/PXL_20221128_132523288.jpg",
+        "images/PXL_20221128_132536702.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175128863426836/?sale_post_id=1175128863426836",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-003",
+      "title": "Kruka",
+      "description": "Kruka med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått.",
+      "images": [
+        "images/PXL_20221016_105809465.jpg",
+        "images/PXL_20221016_105802244.jpg",
+        "images/PXL_20221016_105837594.jpg"
+      ],
+      "status": "sold",
+      "price": "175 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175127006760355/?sale_post_id=1175127006760355",
+      "createdAt": "2022-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-004",
+      "title": "Lampett",
+      "description": "Lampett med hypnotiserande glittrande svart glasyr. Ca 20cm hög",
+      "images": [
+        "images/PXL_20231201_160746878~2.jpg",
+        "images/PXL_20231127_164722017~2.jpg",
+        "images/PXL_20231127_164751279~2.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388946702045050/?sale_post_id=1388946702045050",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "s-005",
+      "title": "Lampett",
+      "description": "Lampett med hypnotiserande glittrande svart glasyr. Ca 20cm hög",
+      "images": [
+        "images/PXL_20231127_164820412~2.jpg",
+        "images/PXL_20231127_164828823~2.jpg",
+        "images/PXL_20231201_160746878~2.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388947135378340/?sale_post_id=1388947135378340",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "s-006",
+      "title": "Kopp",
+      "description": "Kopp i djup svart glasyr med vågigt grön ovankant",
+      "images": [
+        "images/PXL_20231127_165229718~2.jpg",
+        "images/PXL_20231127_165239811~2.jpg",
+        "images/PXL_20231127_165244820~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388944732045247/?sale_post_id=1388944732045247",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "s-007",
+      "title": "Kopp-set",
+      "description": "4 st koppar med olika glasyrlager som ger härlig jordnära känsla med rinningar av guld/rost.",
+      "images": [
+        "images/PXL_20231127_165032644~2.jpg",
+        "images/PXL_20231127_165045407~2.jpg",
+        "images/PXL_20231127_165050712~2.jpg",
+        "images/PXL_20231127_165128785.LONG_EXPOSURE-01.COVER~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1388945365378517/?sale_post_id=1388945365378517",
+      "createdAt": "2023-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "s-008",
+      "title": "Ljuslykta",
+      "description": "Ljuslykta med glasyr som ger olika toner av blått",
+      "images": [
+        "images/PXL_20230416_184904081~2.jpg",
+        "images/PXL_20230416_184911011~3.jpg",
+        "images/PXL_20230416_184925383~2.jpg"
+      ],
+      "status": "sold",
+      "price": "125 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278800156393039/?sale_post_id=1278800156393039",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-009",
+      "title": "Kopp",
+      "description": "Vit kopp med linje av genomskinlig grön krakileringsglasyr som bryter sig in i det vita.",
+      "images": [
+        "images/PXL_20220914_171711203.jpg",
+        "images/PXL_20220914_171718638.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1121163058823417/?sale_post_id=1121163058823417",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-010",
+      "title": "Vas",
+      "description": "Dubbelglaserad med blåa och grönbruna inslag. Höjd 15cm",
+      "images": [
+        "images/244646152_1514000992266896_1204981113994682337_n.jpg"
+      ],
+      "status": "sold",
+      "price": "250 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/899368077669584/?sale_post_id=899368077669584",
+      "createdAt": "2021-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-011",
+      "title": "Kruka",
+      "description": "Kruka med jordnära toner, svart till brunt.",
+      "images": [
+        "images/PXL_20221016_105851088.jpg",
+        "images/PXL_20221016_105857896.jpg",
+        "images/PXL_20221016_105902055.jpg"
+      ],
+      "status": "sold",
+      "price": "175 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175127470093642/?sale_post_id=1175127470093642",
+      "createdAt": "2022-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-012",
+      "title": "Kopp",
+      "description": "Kopp i svart glasyr med strykningar av blå och grön glasyr som ger en känsla av norrsken",
+      "images": [
+        "images/PXL_20230416_183947449~2.jpg",
+        "images/PXL_20230416_183953509~2.jpg",
+        "images/PXL_20230416_183959102~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278795039726884/?sale_post_id=1278795039726884",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-013",
+      "title": "Kopp",
+      "description": "Kopp i svart glasyr med strykningar av blå och grön glasyr som ger en känsla av norrsken",
+      "images": [
+        "images/PXL_20230416_183918047~2.jpg",
+        "images/PXL_20230416_183925101~2.jpg",
+        "images/PXL_20230416_183934847~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278794409726947/?sale_post_id=1278794409726947",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-014",
+      "title": "Kopp-set",
+      "description": "Kopp-set i ljusblå glasyr med kristaller i rostiga toner.",
+      "images": [
+        "images/PXL_20230416_184245941~2.jpg",
+        "images/PXL_20230416_184254389~2.jpg",
+        "images/PXL_20230416_184303996~2.jpg"
+      ],
+      "status": "sold",
+      "price": "300 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278795873060134/?sale_post_id=1278795873060134",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-015",
+      "title": "Tillbringare",
+      "description": "Tillbringare med rosa glasyr utanpå och vit inuti.",
+      "images": [
+        "images/PXL_20230416_184710878~2.jpg",
+        "images/PXL_20230416_184716938~2.jpg",
+        "images/PXL_20230416_184728761~2.jpg"
+      ],
+      "status": "sold",
+      "price": "300 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278796659726722/?sale_post_id=1278796659726722",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-016",
+      "title": "Skål",
+      "description": "Skål med olika glasyrlager, från midnattsblått till turkos.",
+      "images": [
+        "images/PXL_20230513_081452583~2.jpg",
+        "images/PXL_20230513_081459403~2.jpg"
+      ],
+      "status": "sold",
+      "price": "125 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278801136392941/?sale_post_id=1278801136392941",
+      "createdAt": "2023-05-13T00:00:00.000Z"
+    },
+    {
+      "id": "s-017",
+      "title": "Servis",
+      "description": "Servis med 6 assietter, skålar och muggar, Honungsvit och blå glasyr",
+      "images": [
+        "images/PXL_20230416_190217228.jpg",
+        "images/PXL_20230416_190206317.jpg",
+        "images/PXL_20230416_190229310.jpg",
+        "images/PXL_20230416_190245910.jpg",
+        "images/PXL_20230416_190345648.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175130636759992/?sale_post_id=1175130636759992",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-018",
+      "title": "Ljuslykta",
+      "description": "Ljuslyka med emeraldgrön glasyr.",
+      "images": [
+        "images/PXL_20230416_184803385~2.jpg",
+        "images/PXL_20230416_184809843~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-019",
+      "title": "Ljuslykta",
+      "description": "Ljuslyktor med hypnotiserande glittrande svart glasyr.",
+      "images": [
+        "images/PXL_20230416_184536780~2.jpg",
+        "images/PXL_20230416_184541834~2.jpg",
+        "images/PXL_20230416_184608219~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-020",
+      "title": "Mugg",
+      "description": "Mugg med i härligt rosa toner.",
+      "images": [
+        "images/PXL_20230416_184452204~2.jpg",
+        "images/PXL_20230416_184457775~2.jpg",
+        "images/PXL_20230416_184506548~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-021",
+      "title": "Mugg-set",
+      "description": "Mugg-set med hypnotiserande glittrande svart glasyr.",
+      "images": [
+        "images/PXL_20230416_183708102~2.jpg",
+        "images/PXL_20230416_183719148~2.jpg",
+        "images/PXL_20230416_183735055~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-022",
+      "title": "Mugg",
+      "description": "Mugg med hypnotiserande glittrande svart glasyr.",
+      "images": [
+        "images/PXL_20230416_183630912~2.jpg",
+        "images/PXL_20230416_183642285~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-023",
+      "title": "Mugg",
+      "description": "Mugg i flödande vit glasyr över blå.",
+      "images": [
+        "images/PXL_20221128_132824598.jpg",
+        "images/PXL_20221128_132832535.jpg",
+        "images/PXL_20221128_132849051.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175131023426620/?sale_post_id=1175131023426620",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-024",
+      "title": "Tumblermugg",
+      "description": "Handkarvad tumblermugg med mattsvart underkant och överkant i flödande vit glasyr över blå.",
+      "images": [
+        "images/PXL_20221128_132908986.jpg",
+        "images/PXL_20221128_132914478.jpg",
+        "images/PXL_20221128_132930466.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175131410093248/?sale_post_id=1175131410093248",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-025",
+      "title": "Tumblermugg",
+      "description": "Tumblermugg med glasyrkombination från honungsvit till olika nyanser av blått.",
+      "images": [
+        "images/PXL_20221128_133142775.jpg",
+        "images/PXL_20221128_133149033.jpg",
+        "images/PXL_20221128_133200444.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175131730093216/?sale_post_id=1175131730093216",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-026",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyrlager som ger härlig jordnära känsla med rinningar av guld/rost.",
+      "images": [
+        "images/PXL_20220914_162457223.jpg",
+        "images/PXL_20220914_162507800.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1121158032157253/?sale_post_id=1121158032157253",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-027",
+      "title": "Kopp",
+      "description": "Kopp med glasyr i gråsvart med genombrytningar av rött",
+      "images": [
+        "images/PXL_20220914_162928690.jpg",
+        "images/PXL_20220914_162934702.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1121159182157138/?sale_post_id=1121159182157138",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-028",
+      "title": "Tomteluva",
+      "description": "Handtummad tomteluva i traditionella färger.",
+      "images": [
+        "images/PXL_20221128_133923084~2.jpg",
+        "images/PXL_20221128_133933441~2.jpg"
+      ],
+      "status": "sold",
+      "price": "75 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175129283426794/?sale_post_id=1175129283426794",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-029",
+      "title": "Ljusstake",
+      "description": "Ljusstake med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått.",
+      "images": [
+        "images/PXL_20221128_132701350.jpg",
+        "images/PXL_20221128_132708946.jpg"
+      ],
+      "status": "sold",
+      "price": "175 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175130073426715/?sale_post_id=1175130073426715",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-030",
+      "title": "Kruka/Skål",
+      "description": "Lite mindre kruka/skål med rosa utida och grön insida.",
+      "images": [
+        "images/PXL_20221128_133508509.jpg",
+        "images/PXL_20221128_133515990.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175128223426900/?sale_post_id=1175128223426900",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-031",
+      "title": "Kopp",
+      "description": "Kopp med rosa utsida och grön på insidan och nedre kant.",
+      "images": [
+        "images/PXL_20221128_133547296~2.jpg",
+        "images/PXL_20221128_133558406~2.jpg",
+        "images/PXL_20221128_133618888~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1175127773426945/?sale_post_id=1175127773426945",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-032",
+      "title": "Mugg",
+      "description": "Mugg med hypnotiserande glittrande svart glasyr.",
+      "images": [
+        "images/PXL_20221128_133332873.jpg",
+        "images/PXL_20221128_133348757.jpg",
+        "images/PXL_20221128_133357100.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-033",
+      "title": "Kopp",
+      "description": "Dubbelglaserad kopp från honungsvit till grått och midnattsblå.",
+      "images": [
+        "images/PXL_20221128_133229687.jpg",
+        "images/PXL_20221128_133236355.jpg",
+        "images/PXL_20221128_133243898.jpg",
+        "images/PXL_20221128_133305324.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-034",
+      "title": "Frukost-set",
+      "description": "Frukost-set svart bas-glasyr och flertalet andra glasyrer pålagt för att ge ett mönster som påminner om en galax",
+      "images": [
+        "images/PXL_20221128_133040761.jpg",
+        "images/PXL_20221128_133053779.jpg",
+        "images/PXL_20221128_133100780.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-035",
+      "title": "Kopp",
+      "description": "Kopp med en glasyrblanding som ger ett spräckligt mönster i grönt och vitt",
+      "images": [
+        "images/PXL_20221128_132950767.jpg",
+        "images/PXL_20221128_132955968.jpg",
+        "images/PXL_20221128_133007809.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-036",
+      "title": "Kopp",
+      "description": "Kopp-set med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått och gräddvit glasyr inuti.",
+      "images": [
+        "images/PXL_20221128_132550480.jpg",
+        "images/PXL_20221128_132556756.jpg",
+        "images/PXL_20221128_132620398.jpg",
+        "images/PXL_20221128_132642578.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-037",
+      "title": "Kopp-set",
+      "description": "Kopp-set med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått och gräddvit glasyr inuti.",
+      "images": [
+        "images/PXL_20221128_132421870.jpg",
+        "images/PXL_20221128_132431711.jpg",
+        "images/PXL_20221128_132448596.jpg",
+        "images/PXL_20221128_132454200.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-038",
+      "title": "Kopp-set",
+      "description": "Kopp-set med olika glasyrlager, från midnattsblått till turkos.",
+      "images": [
+        "images/PXL_20221128_132250479.jpg",
+        "images/PXL_20221128_132306858.jpg",
+        "images/PXL_20221128_132327665.jpg",
+        "images/PXL_20221128_132349364.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-11-28T00:00:00.000Z"
+    },
+    {
+      "id": "s-039",
+      "title": "Ljusstakar",
+      "description": "Ljusstakar i olika glasyrkombinationer",
+      "images": [
+        "images/IMG_20220914_194958_871.jpg",
+        "images/IMG_20220914_194958_824.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-040",
+      "title": "Frukost-set",
+      "description": "2 muggar och 2 skålar i mörkblått med kopparfärg på kanten och inuti. Muggarna rymmer 4dl och skålarna 7dl.",
+      "images": [
+        "images/PXL_20220523_182501817~3.jpg",
+        "images/PXL_20220523_182440801~2.jpg",
+        "images/PXL_20220523_182447153~2.jpg",
+        "images/PXL_20220523_182433623~2.jpg"
+      ],
+      "status": "sold",
+      "price": "500 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042519086687815/?sale_post_id=1042519086687815",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-041",
+      "title": "Garnskål",
+      "description": "",
+      "images": [
+        "images/IMG_20220213_125919__02.jpg",
+        "images/IMG_20220213_125925__01.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "s-042",
+      "title": "Kopp-set",
+      "description": "Kopp-set i härligt pastell grånblå glasyr",
+      "images": [
+        "images/PXL_20220914_170435068.jpg",
+        "images/PXL_20220914_170451699.jpg",
+        "images/PXL_20220914_170506449.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1121161095490280/?sale_post_id=1121161095490280",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-043",
+      "title": "Skål",
+      "description": "Skål i mörkblått med kopparfärg på kanten. 20 cm bred och 9 cm hög",
+      "images": [
+        "images/PXL_20220523_181928011~3.jpg",
+        "images/PXL_20220523_181932965~2.jpg",
+        "images/PXL_20220523_182136175~2.jpg"
+      ],
+      "status": "sold",
+      "price": "350 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042520286687695/?sale_post_id=1042520286687695",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-044",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått",
+      "images": [
+        "images/PXL_20220914_171225018.jpg",
+        "images/PXL_20220914_171230970.jpg",
+        "images/PXL_20220914_171246251.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-045",
+      "title": "Fika-set",
+      "description": "Kopparna rymmer 2,5dl",
+      "images": [
+        "images/240219608_1482493228751006_4468803589295371739_n.jpg"
+      ],
+      "status": "sold",
+      "price": "400 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/869573270649065/?sale_post_id=869573270649065",
+      "createdAt": "2021-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-046",
+      "title": "Kopp",
+      "description": "I delad glasyr, vit och speglande palladium. Med dubbla öron",
+      "images": [
+        "images/IMG_20220327_190159__01.jpg",
+        "images/IMG_20220327_190210__01.jpg",
+        "images/IMG_20220327_190216__01.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-03-27T00:00:00.000Z"
+    },
+    {
+      "id": "s-047",
+      "title": "Kopp",
+      "description": "Kopp med toner av rökt merlote och blått skimmer på kanten.",
+      "images": [
+        "images/PXL_20220914_171627994.jpg",
+        "images/PXL_20220914_171616940.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-048",
+      "title": "Garnskål",
+      "description": "Garnskål med lila bas och olika kristallglasyrer. 13 cm bred 7 cm djup",
+      "images": [
+        "images/273912390_1600637060269955_7889427997290398644_n.jpg",
+        "images/273918651_1600637073603287_5533990748054627523_n.jpg",
+        "images/273911817_1600637113603283_7443315622378128731_n.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/977916479814743/?sale_post_id=977916479814743",
+      "createdAt": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-049",
+      "title": "Garnskål",
+      "description": "",
+      "images": [
+        "images/IMG_20220704_205536_741.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-07-04T00:00:00.000Z"
+    },
+    {
+      "id": "s-050",
+      "title": "Frukost-set",
+      "description": "",
+      "images": [
+        "images/IMG_20211110_204539.jpg",
+        "images/IMG_20211110_204554.jpg",
+        "images/IMG_20211110_204609.jpg"
+      ],
+      "status": "sold",
+      "price": "500 kr",
+      "createdAt": "2021-11-10T00:00:00.000Z"
+    },
+    {
+      "id": "s-051",
+      "title": "Frukost-set",
+      "description": "",
+      "images": [
+        "images/IMG_20210822_114832.jpg"
+      ],
+      "status": "sold",
+      "price": "500 kr",
+      "createdAt": "2021-08-22T00:00:00.000Z"
+    },
+    {
+      "id": "s-052",
+      "title": "Kopp",
+      "description": "Kopp med bas av stormblått med vit glasyr ovanpå som ger spännande \"hål\" känsla.",
+      "images": [
+        "images/PXL_20220914_171521929.jpg",
+        "images/PXL_20220914_171527955.jpg",
+        "images/PXL_20220914_171536707.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-053",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyrlager, från midnattsblått till turkos.",
+      "images": [
+        "images/PXL_20230416_184139188~2.jpg",
+        "images/PXL_20230416_184143587~2.jpg",
+        "images/PXL_20230416_184221221~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1278797703059951/?sale_post_id=1278797703059951",
+      "createdAt": "2023-04-16T00:00:00.000Z"
+    },
+    {
+      "id": "s-054",
+      "title": "Kopp",
+      "description": "",
+      "images": [
+        "images/244540386_1513999132267082_6427244979507076930_n.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-055",
+      "title": "Kopp-set",
+      "description": "I nordisk blå, med runan för N (lugn) på sig",
+      "images": [
+        "images/IMG_20220213_125206__01.jpg",
+        "images/IMG_20220213_125219__01.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "s-056",
+      "title": "Kopp-set",
+      "description": "",
+      "images": [
+        "images/IMG_20220704_205536_797.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-07-04T00:00:00.000Z"
+    },
+    {
+      "id": "s-057",
+      "title": "Kopp",
+      "description": "Med ön trossö fäst på i krakileringsglasyr",
+      "images": [
+        "images/244370204_1511163282550667_3727576941459921482_n.jpg",
+        "images/244991674_1513991135601215_2066005598824678361_n.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-058",
+      "title": "Vas",
+      "description": "",
+      "images": [
+        "images/245140019_1514002045600124_8979023271363613543_n.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-059",
+      "title": "Frukost-set",
+      "description": "2st dubbelglaserade koppar och skålar i svart och skimrande blått. Kopparna rymmer 2,5 dl och skålarna 5dl.",
+      "images": [
+        "images/255080229_1535977976735864_2993546396191219090_n.jpg",
+        "images/255120691_1535977973402531_7910640452187287802_n.jpg",
+        "images/254729405_1535977986735863_541731611993709365_n.jpg"
+      ],
+      "status": "sold",
+      "price": "450 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/919314482341610/?sale_post_id=919314482341610",
+      "createdAt": "2021-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-060",
+      "title": "Svamp",
+      "description": "",
+      "images": [
+        "images/PXL_20220523_181821955~2.jpg",
+        "images/PXL_20220523_181826976~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042517650021292/?sale_post_id=1042517650021292",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-061",
+      "title": "Svamp",
+      "description": "",
+      "images": [
+        "images/PXL_20220523_181800690~2.jpg",
+        "images/PXL_20220523_181812387~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042517190021338/?sale_post_id=1042517190021338",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-062",
+      "title": "Svamp",
+      "description": "",
+      "images": [
+        "images/PXL_20220523_181746019~2.jpg",
+        "images/PXL_20220523_181750000~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042516726688051/?sale_post_id=1042516726688051",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-063",
+      "title": "Svamp",
+      "description": "",
+      "images": [
+        "images/PXL_20220523_181711985~2.jpg",
+        "images/PXL_20220523_181717059~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042516403354750/?sale_post_id=1042516403354750",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-064",
+      "title": "Svamp",
+      "description": "",
+      "images": [
+        "images/PXL_20220523_181647200~2.jpg",
+        "images/PXL_20220523_181659413~2.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042516100021447/?sale_post_id=1042516100021447",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-065",
+      "title": "Skål-set",
+      "description": "I nordisk blå",
+      "images": [
+        "images/IMG_20220213_125722__01.jpg",
+        "images/IMG_20220213_125825__01.jpg"
+      ],
+      "status": "sold",
+      "price": "350 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042521233354267/?sale_post_id=1042521233354267",
+      "createdAt": "2022-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "s-066",
+      "title": "Skål",
+      "description": "Skål med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått. Bredd 21 cm, höjd 7,5 cm",
+      "images": [
+        "images/PXL_20220523_182203449~2.jpg",
+        "images/PXL_20220523_182220740~2.jpg",
+        "images/PXL_20220523_182247612~3.jpg"
+      ],
+      "status": "sold",
+      "price": "350 kr",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-067",
+      "title": "Kopp-set",
+      "description": "Kopp-set med olika glasyrlager som ger härlig jordnära känsla med rinningar av guld/rost.",
+      "images": [
+        "images/PXL_20220914_171105666.jpg",
+        "images/PXL_20220914_171119618.jpg",
+        "images/PXL_20220914_171131598.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-068",
+      "title": "Tumblermugg",
+      "description": "Tumblermugg i mattsvart med oglaserat linje runtom. Rymmer 3,5dl",
+      "images": [
+        "images/244749403_1514000112266984_2815838856125709603_n.jpg"
+      ],
+      "status": "sold",
+      "price": "100 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/899367304336328/?sale_post_id=899367304336328",
+      "createdAt": "2021-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-069",
+      "title": "Skål",
+      "description": "Skål med glanssvart bas och flammig blå glasyr på kanten och lila glasyrstänk inuti.",
+      "images": [
+        "images/IMG_20220914_194958_954.jpg",
+        "images/IMG_20220914_194958_894.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-070",
+      "title": "Kopp-set",
+      "description": "Kopp-set med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått",
+      "images": [
+        "images/PXL_20220914_163037688.jpg",
+        "images/PXL_20220914_163047535.jpg",
+        "images/PXL_20220914_163116505.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-071",
+      "title": "Skål",
+      "description": "Skål med olika glasyrlager, från midnattsblått till turkos.",
+      "images": [
+        "images/IMG_20220914_194958_966.jpg",
+        "images/IMG_20220914_194958_942.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-072",
+      "title": "Ljuslykta",
+      "description": "Ljuslykta med glasyr i färgerna från brun/lila till ljusblått.",
+      "images": [
+        "images/269094000_1562515890748739_6765739051806711064_n.jpg"
+      ],
+      "status": "sold",
+      "price": "75 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/943328809940177/?sale_post_id=943328809940177",
+      "createdAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-073",
+      "title": "Ljuslykta",
+      "description": "",
+      "images": [
+        "images/IMG_20211110_203921.jpg",
+        "images/IMG_20211110_204242.jpg"
+      ],
+      "status": "sold",
+      "price": "75 kr",
+      "createdAt": "2021-11-10T00:00:00.000Z"
+    },
+    {
+      "id": "s-074",
+      "title": "Kopp",
+      "description": "Kopp med glasyrblanding som ger toner från järnrik jord till flammigt norrsken.",
+      "images": [
+        "images/PXL_20220914_171422741.jpg",
+        "images/PXL_20220914_171429060.jpg",
+        "images/PXL_20220914_171440842.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-075",
+      "title": "Kopp",
+      "description": "",
+      "images": [
+        "images/IMG_20210822_120947.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-08-22T00:00:00.000Z"
+    },
+    {
+      "id": "s-076",
+      "title": "Kopp",
+      "description": "",
+      "images": [
+        "images/IMG_20210822_121525.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-08-22T00:00:00.000Z"
+    },
+    {
+      "id": "s-077",
+      "title": "Kopp",
+      "description": "",
+      "images": [
+        "images/IMG_20210822_121612.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-08-22T00:00:00.000Z"
+    },
+    {
+      "id": "s-078",
+      "title": "Kopp",
+      "description": "",
+      "images": [
+        "images/IMG_3812.JPG"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "s-079",
+      "title": "Kopp-set",
+      "description": "Kopp-set med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått.",
+      "images": [
+        "images/IMG_20220213_122554__01.jpg",
+        "images/IMG_20220213_122609__01.jpg",
+        "images/IMG_20220213_122624__01.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "s-080",
+      "title": "Kopp",
+      "description": "Kopp inspererad från ekfat.",
+      "images": [
+        "images/PXL_20220914_162549471.jpg",
+        "images/PXL_20220914_162542408.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-081",
+      "title": "Skål-set",
+      "description": "Skål-set med glanssvart bas och överdel i olika färger.",
+      "images": [
+        "images/PXL_20220914_173027275.jpg",
+        "images/PXL_20220914_172957786.jpg",
+        "images/PXL_20220914_173010111.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-082",
+      "title": "Kopp-set",
+      "description": "Kopp-set med mattsvart underkant och glasyrblanding som skimmrar i blått och vitt",
+      "images": [
+        "images/PXL_20220914_172900220.jpg",
+        "images/PXL_20220914_172825340.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-083",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyer som skapar en stjärnhimmel med sten och grönska.",
+      "images": [
+        "images/PXL_20220914_162727971.jpg",
+        "images/PXL_20220914_162715282.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-084",
+      "title": "Kopp-set",
+      "description": "",
+      "images": [
+        "images/20211002105935_IMG_3793.JPG"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2021-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "s-085",
+      "title": "Kopp-set",
+      "description": "",
+      "images": [
+        "images/IMG_20220507_185105_905.jpg",
+        "images/PXL_20220507_163125954.jpg",
+        "images/PXL_20220507_163132981.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-05-07T00:00:00.000Z"
+    },
+    {
+      "id": "s-086",
+      "title": "Kopp",
+      "description": "Kopp med 3 olika glasyer som skapar en härligt galen kombo från vete till lila och blått.",
+      "images": [
+        "images/PXL_20220914_162841789.jpg",
+        "images/PXL_20220914_162851736.jpg",
+        "images/PXL_20220914_162902818.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-087",
+      "title": "Kopp-set",
+      "description": "Kopp-set i art-deco grön",
+      "images": [
+        "images/PXL_20220914_170731935.jpg",
+        "images/PXL_20220914_170750602.jpg",
+        "images/PXL_20220914_170828544.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-088",
+      "title": "Kopp-set",
+      "description": "Kopp-set med lagrad glasyr för att ge härlig pastell effekt från blått till grå-beige",
+      "images": [
+        "images/PXL_20220914_170543785.jpg",
+        "images/PXL_20220914_170604948.jpg",
+        "images/PXL_20220914_170554585.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-089",
+      "title": "Kopp/tumbler",
+      "description": "Svart kopp med skimmer av midnattsblå. Ihoptryckt under drejning för att ge härlig håll-känsla",
+      "images": [
+        "images/PXL_20220914_162825912.jpg",
+        "images/PXL_20220914_162806217.jpg",
+        "images/PXL_20220914_162811546.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-090",
+      "title": "2st koppar",
+      "description": "2st koppar med glasyr som skimrar från mörkblått till ljusblått. Rymmer 3dl.",
+      "images": [
+        "images/273935851_1600656490268012_1934134975031832357_n.jpg",
+        "images/273834650_1600656530268008_3878306301093336129_n.jpg",
+        "images/273932149_1600656516934676_346712226774705567_n.jpg"
+      ],
+      "status": "sold",
+      "price": "200 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/977930356480022/?sale_post_id=977930356480022",
+      "createdAt": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-091",
+      "title": "Kopp",
+      "description": "Kopp med olika gristallglasyrlager, djup grön med skimmer av gult, ljusgrön och blått.",
+      "images": [
+        "images/PXL_20220914_162615121.jpg",
+        "images/PXL_20220914_162648450.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-092",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyrlager, från midnattsblått till turkos.",
+      "images": [
+        "images/PXL_20220914_162318625.jpg",
+        "images/PXL_20220914_162327962.jpg",
+        "images/PXL_20220914_162347473.jpg",
+        "images/PXL_20220914_162440835.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "createdAt": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "s-093",
+      "title": "Kopp-set",
+      "description": "4st muggar med högglansglasyr i rött, orange, gult och blått med kristallglasyr ovanpå. Kopparna rymmer ca 4dl.",
+      "images": [
+        "images/PXL_20220523_183013501~3.jpg",
+        "images/PXL_20220523_182957836~2.jpg",
+        "images/PXL_20220523_182931685~2.jpg",
+        "images/PXL_20220523_182840356~2.jpg"
+      ],
+      "status": "sold",
+      "price": "550 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1042523010020756/?sale_post_id=1042523010020756",
+      "createdAt": "2022-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "s-094",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått. Rymmer ca 3,5dl.",
+      "images": [
+        "images/276306416_1630319293968398_3567928016288805453_n.jpg",
+        "images/277311709_1630319367301724_3371511841710013324_n.jpg"
+      ],
+      "status": "sold",
+      "price": "100 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1004331183839939/?sale_post_id=1004331183839939",
+      "createdAt": "2022-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-095",
+      "title": "Kopp",
+      "description": "Kopp med olika glasyrlager som ger färg från rödbrunt till skimrande mörkblått. Rymmer ca 4,5dl.",
+      "images": [
+        "images/276226499_1630318413968486_7707813999784825794_n.jpg",
+        "images/276279439_1630318493968478_6922993678832292367_n.jpg"
+      ],
+      "status": "sold",
+      "price": "100 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/1004330623839995/?sale_post_id=1004330623839995",
+      "createdAt": "2022-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-096",
+      "title": "Skål",
+      "description": "Skål i midnattsblå glasyr. 15,5cm bred och 8cm djup.",
+      "images": [
+        "images/273896283_1600652580268403_5006369387092440977_n.jpg",
+        "images/273892937_1600652560268405_3474694267869960941_n.jpg",
+        "images/273862951_1600652600268401_1469268684366429663_n.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/977926639813727/?sale_post_id=977926639813727",
+      "createdAt": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "s-097",
+      "title": "Kruka",
+      "description": "En kruka med spiralform i mörkgrön glasyr som har inslag av olivgröna/bruna kristaller. Höjd 14,5cm och 9cm djup.",
+      "images": [
+        "images/273896667_1600649166935411_898140117733135181_n.jpg",
+        "images/273970865_1600649196935408_8874258626325064800_n.jpg"
+      ],
+      "status": "sold",
+      "price": "150 kr",
+      "facebookUrl": "https://www.facebook.com/groups/869565873983138/permalink/977923789814012/?sale_post_id=977923789814012",
+      "createdAt": "2022-02-01T00:00:00.000Z"
+    }
+  ]
+}
